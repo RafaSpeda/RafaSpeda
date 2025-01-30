@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif"
+  <img src="./github-banner.gif"
 </p>
 
 # "Hello World!"
